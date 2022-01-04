@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Divisões Sucessivas</string>
+    <string name="v1">Valor 1</string>
+    <string name="v2">Valor 2</string>
+    <string name="v3">Valor 3</string>
+    <string name="v4">Valor 4</string>
+    <string name="resultado">Resultado</string>
+    <string name="limpar">Limpar</string>
+    <string name="calcular">Calcular</string>
+    <string name="proxTela">Passar dados para próxima tela</string>
+</resources>
